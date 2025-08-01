@@ -5,8 +5,12 @@
 # Use Real ID to ensure 1 voice for each person
 # Software capable of aggregating budget votes
 # People should be able to visualize the Federal budget and make recommendations
+# Frequency: not less than one year between votes, not more than four years
 ## ##
 
 ### Policy Recommendations ###
 # Democratize federal budget - Citizens use Real ID access to make budget recommendations
-    #For example: 20% Military, 30% Education, 15% support local law enforcement, 35% Healthcare - Insurance
+    # For example: 20% Military, 30% Education, 15% support local law enforcement, 
+    # 35% Healthcare - Insurance
+# Budgets are allocated within +/- 5% threshold per voting.
+# Voting occurs annually.
