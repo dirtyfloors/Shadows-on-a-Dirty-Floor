@@ -1,7 +1,8 @@
 ## Mission: Simplify the tax codes
 
 ## Problem: Tax code is complex and hits you from every angle. The wealthy think they
-    ## pay too much, while the less wealthy think the wealthy doesn't pay enough.
+    # pay too much, while the less wealthy think the wealthy doesn't pay enough.
+
 ## ##
 ## Requirements ##
 # Taxes should be easier to calculate. Simple is ideal. Taxes should be simple.
@@ -27,4 +28,4 @@
 
 ### Policy Recommendation: Tax Code ###
 
-# Everyone pays 15%. No funky exemptions, offsets, or means tests.
+# Everyone pays ~15%. No funky exemptions, offsets, or means tests.
